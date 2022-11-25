@@ -1,6 +1,5 @@
-![chiruno](https://cdn.glitch.global/ae7cadfc-5cb5-478c-98dd-7cd26b665238/ti.png?v=1669362474648)
-
 # あたいBOT
+![chiruno](https://cdn.glitch.global/ae7cadfc-5cb5-478c-98dd-7cd26b665238/ti.png?v=1669362474648)
 ***
 
 ## 目次
