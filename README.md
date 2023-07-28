@@ -1,5 +1,5 @@
 # あたいBOT
-![chiruno](https://cdn.glitch.global/ae7cadfc-5cb5-478c-98dd-7cd26b665238/ti.png?v=1669362474648)
+![chiruno](https://media.discordapp.net/attachments/1113105921414021171/1134465602795360306/cirno.png?width=230&height=230)
 ***
 
 ## 目次
@@ -10,6 +10,7 @@
 ***
 ### あたいBOTとは
 Discordで活動しているBOTだよ！
+現在V3です
 作者は Minnteria#4113です
 
 ***
